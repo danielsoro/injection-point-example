@@ -1,6 +1,6 @@
 import com.github.danielsoro.myobjects.Session;
 import com.github.danielsoro.produces.SessionProduce;
-import com.github.danielsoro.qualifiers.Parameter;
+import com.github.danielsoro.produces.Parameter;
 import org.jboss.arquillian.container.test.api.Deployment;
 import org.jboss.arquillian.junit.Arquillian;
 import org.jboss.shrinkwrap.api.ShrinkWrap;

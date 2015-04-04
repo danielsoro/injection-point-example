@@ -1,7 +1,6 @@
 package com.github.danielsoro.produces;
 
 import com.github.danielsoro.myobjects.Session;
-import com.github.danielsoro.qualifiers.Parameter;
 
 import javax.enterprise.inject.Produces;
 import javax.enterprise.inject.spi.InjectionPoint;

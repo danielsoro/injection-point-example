@@ -1,4 +1,4 @@
-package com.github.danielsoro.qualifiers;
+package com.github.danielsoro.produces;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.Retention;
